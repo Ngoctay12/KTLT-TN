@@ -1,3 +1,4 @@
+//* Your code failed one or more hidden tests.
 int countWaysUtil(int x, int currNum) {
     if (x == 0) {
         return 1;
